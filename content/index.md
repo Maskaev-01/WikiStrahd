@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: WikiStrahd
 ---
+# Здесь будет собрана информация по кампании "Проклятье страда"
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
